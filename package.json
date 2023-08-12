@@ -23,7 +23,7 @@
     "evil-dark-tony-vscode",
     "evil-dark-tony-vscode-theme",
     "evil-dark-tony-vscode-color-theme",
-    "evil-dark-tony-vscode",
+    "evil-dark-tony-vscode"
   ],
   "engines": {
     "vscode": "^1.81.0"
