@@ -1,0 +1,21 @@
+{
+  "name": "evil-dark-tony",
+  "displayName": "Evil Dark Tony",
+  "description": "Dark Chill Theme",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.81.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Evil Dark Tony",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Evil Dark Tony-color-theme.json"
+      }
+    ]
+  }
+}
