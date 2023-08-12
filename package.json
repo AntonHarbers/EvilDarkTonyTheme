@@ -3,6 +3,28 @@
   "displayName": "Evil Dark Tony",
   "description": "Dark Chill Theme",
   "version": "0.0.1",
+  "publisher": "EvilDarkTony",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/AntonHarbers/EvilDarkTonyTheme.git"
+  },
+  "keywords": [
+    "theme",
+    "dark",
+    "chill",
+    "evil",
+    "tony",
+    "dark-tony",
+    "evil-dark-tony",
+    "evil-dark-tony-theme",
+    "evil-dark-tony-color-theme",
+    "evil-dark-tony-vscode-theme",
+    "evil-dark-tony-vscode-color-theme",
+    "evil-dark-tony-vscode",
+    "evil-dark-tony-vscode-theme",
+    "evil-dark-tony-vscode-color-theme",
+    "evil-dark-tony-vscode",
+  ],
   "engines": {
     "vscode": "^1.81.0"
   },
