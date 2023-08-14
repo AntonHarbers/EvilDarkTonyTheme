@@ -2,8 +2,8 @@
 
 All notable changes to the "evil-dark-tony" extension will be documented in this file.
 
-Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how to structure this file.
+## [Released]
 
-## [Unreleased]
-
-- Initial release
+- Initial release 0.0.1
+- Updated colors to add contrast to input, menu and filetree 0.0.2
+- Updated README 0.0.2
