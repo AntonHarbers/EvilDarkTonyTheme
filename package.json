@@ -2,12 +2,13 @@
   "name": "evil-dark-tony",
   "displayName": "Evil Dark Tony",
   "description": "Dark Chill Theme",
-  "version": "0.0.1",
+  "version": "0.0.3",
   "publisher": "EvilDarkTony",
   "repository": {
     "type": "git",
     "url": "https://github.com/AntonHarbers/EvilDarkTonyTheme.git"
-  },
+  },    
+  "icon": "images/logo.png",
   "keywords": [
     "theme",
     "dark",
